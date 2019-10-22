@@ -12,8 +12,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `Server run`
-To create server go to this [Server Link](https://github.com/parth280197/FannexApi) and run it locally.
+### `Web API`
+To create server go to this [Web API link](https://github.com/parth280197/FannexApi) and run it locally.
 
 ### `Screen-Shots`
 1. Login
